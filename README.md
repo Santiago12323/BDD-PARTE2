@@ -4,6 +4,13 @@ Laboratorio práctico en Java para aplicar la metodología **Behavior-Driven Dev
 
 ---
 
+Nombre : Santiago Coronado Pinzon
+
+Materia : ARCN
+
+Profesor : IVAN DARIO SANCHEZ FONSECA
+
+
 # Objetivo
 
 Implementar pruebas automatizadas basadas en comportamiento utilizando **Gherkin** y **Cucumber**, validando diferentes funcionalidades web mediante **Selenium WebDriver** ejecutándose en **modo headless**.
@@ -164,6 +171,8 @@ BUILD SUCCESS
 ---
 
 # funcionamiento
+![BDD antes.png](images/BDD%20antes.png)
 
+![despues.png](images/despues.png)
 ---
 

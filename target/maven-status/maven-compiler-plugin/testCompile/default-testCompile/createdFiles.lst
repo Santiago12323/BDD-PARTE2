@@ -1,5 +1,5 @@
-runners\TestRunner.class
-steps\LoginSteps.class
-steps\SearchSteps.class
-com\example\AppTest.class
-pages\LoginPage.class
+steps/InputsSteps.class
+pages/AlertPage.class
+pages/InputsPage.class
+pages/AddRemovePage.class
+steps/AlertSteps.class

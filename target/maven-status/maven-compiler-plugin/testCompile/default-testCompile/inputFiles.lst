@@ -1,5 +1,10 @@
-C:\Users\super\Downloads\bdd-selenium-lab\src\test\java\com\example\AppTest.java
-C:\Users\super\Downloads\bdd-selenium-lab\src\test\java\pages\LoginPage.java
-C:\Users\super\Downloads\bdd-selenium-lab\src\test\java\runners\TestRunner.java
-C:\Users\super\Downloads\bdd-selenium-lab\src\test\java\steps\LoginSteps.java
-C:\Users\super\Downloads\bdd-selenium-lab\src\test\java\steps\SearchSteps.java
+/workspaces/BDD-PARTE2/src/test/java/com/example/AppTest.java
+/workspaces/BDD-PARTE2/src/test/java/pages/AddRemovePage.java
+/workspaces/BDD-PARTE2/src/test/java/pages/AlertPage.java
+/workspaces/BDD-PARTE2/src/test/java/pages/InputsPage.java
+/workspaces/BDD-PARTE2/src/test/java/pages/LoginPage.java
+/workspaces/BDD-PARTE2/src/test/java/runners/TestRunner.java
+/workspaces/BDD-PARTE2/src/test/java/steps/AlertSteps.java
+/workspaces/BDD-PARTE2/src/test/java/steps/InputsSteps.java
+/workspaces/BDD-PARTE2/src/test/java/steps/LoginSteps.java
+/workspaces/BDD-PARTE2/src/test/java/steps/SearchSteps.java
